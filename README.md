@@ -1,4 +1,4 @@
-# LLM-papers
+# LLMs-papers
 
 _A curated collection of reading notes focused on understanding and synthesizing key ideas in Large Language Models (LLMs)._
 
