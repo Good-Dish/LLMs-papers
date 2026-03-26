@@ -24,8 +24,7 @@ It aims to:
     
 - **`thought-provoking/`** — Conceptual or analytical papers discussing  
     _LLM behaviors_, _training paradigms_, _emergent capabilities_, and _societal or philosophical reflections_.
-    
-
+······
 ## 🧩 About the Notes
 
 Each note provides:

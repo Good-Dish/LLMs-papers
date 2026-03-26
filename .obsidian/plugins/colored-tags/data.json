@@ -13,6 +13,7 @@
     "cot": 29,
     "kg": 31,
     "long-context": 30,
+    "mechanism": 32,
     "pre-training": 34,
     "rag": 28
   },

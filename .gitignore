@@ -4,5 +4,7 @@ academic_writing/
 # 忽略整个 template 文件夹
 template/
 
-# 忽略 RAG 下的 raw_doc 子目录
+# 忽略raw_doc 子目录
 RAG/raw_doc/
+agent/raw_doc/
+thought-provoking/raw_doc/

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent/doc/Which Agent Causes Task Failures and When.md",
+                "file": "thought-provoking/doc/LLMS GET LOST IN MULTI-TURN CONVERSATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Which Agent Causes Task Failures and When"
+              "title": "LLMS GET LOST IN MULTI-TURN CONVERSATION"
             }
           },
           {
@@ -203,10 +203,24 @@
   },
   "active": "5ec321c1ade0aa19",
   "lastOpenFiles": [
-    "RAG/doc/Knowledge Graph-Guided Retrieval Augmented Generation.md",
-    "agent/doc/Which Agent Causes Task Failures and When.md",
-    "RAG/doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
+    "thought-provoking/raw_doc/r_LLMS GET LOST IN MULTI-TURN CONVERSATION.md",
+    "thought-provoking/doc/LLMS GET LOST IN MULTI-TURN CONVERSATION.md",
+    "thought-provoking/doc/新建 Microsoft Word 文档.docx",
+    "thought-provoking/doc",
+    "thought-provoking/新建文件夹",
+    "template/模板.md",
+    "thought-provoking/pic/Pasted image 20260326154419.png",
+    "thought-provoking/pic/Pasted image 20260325151815.png",
+    "thought-provoking/pic/Pasted image 20260325151726.png",
+    "thought-provoking/pic/Pasted image 20260325150448.png",
+    "thought-provoking/pic",
+    "thought-provoking/pic/Pasted image 20260325144548.png",
     "agent/raw_doc/r_Which Agent Causes Task Failures and When.md",
+    "agent/doc/Which Agent Causes Task Failures and When.md",
+    "thought-provoking/raw_doc",
+    "README.md",
+    "RAG/doc/Knowledge Graph-Guided Retrieval Augmented Generation.md",
+    "RAG/doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
     "agent/doc",
     "RAG/raw_doc/r_Knowledge Graph-Guided Retrieval Augmented Generation.md",
     "RAG/raw_doc/r_KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
@@ -215,8 +229,6 @@
     "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "agent/raw_doc",
     "agent/未命名.md",
-    "template/模板.md",
-    "README.md",
     "agent",
     "academic_writing/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "academic_writing/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
@@ -231,23 +243,11 @@
     "RAG/raw_doc/r_Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "RAG/raw_doc/r_MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
     "RAG/raw_doc/r_Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
-    "academic_writing/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
     "RAG/pic/Pasted image 20251104114356.png",
     "RAG/pic/Pasted image 20251104112522.png",
-    "academic_writing/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
     "新建 文本文档.txt",
     "academic_writing",
     "RAG/pic/Pasted image 20251103215253.png",
-    "RAG/pic/Pasted image 20251031150520.png",
-    "模板",
-    "未命名.base",
-    "未命名 1.base",
-    "未命名 3.base",
-    "未命名 2.base",
-    "RAG/pic/stitching-collage-1761274637626.png",
-    "RAG/pic/Pasted image 20251023165502.png",
-    "RAG/pic/result.png",
-    "RAG/pic/result.jpeg",
-    "RAG/pic/Pasted image 20251024105146.png"
+    "RAG/pic/Pasted image 20251031150520.png"
   ]
 }
