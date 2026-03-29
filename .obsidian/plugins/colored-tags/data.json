@@ -10,9 +10,12 @@
     "highTextContrast": true
   },
   "knownTags": {
+    "agent": 1,
     "cot": 29,
+    "icl": 30,
     "kg": 31,
     "long-context": 30,
+    "lvlms": 32,
     "mechanism": 32,
     "pre-training": 34,
     "rag": 28

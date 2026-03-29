@@ -22,7 +22,7 @@
 - CoT enables LLMs to explicitly reason through problems step by step, producing intermediate reasoning traces that can guide evidence retrieval.
 
 # 🔌Methodology & Innovation
-![[Pasted image 20251022165826.png]]
+![[../pic/Pasted image 20251022165826.png]]
 ### 1. Initial Stage
 
 - Conventional RAG (divides documents into chunks, encodes them, and retrieves the top-k relevant chunks).

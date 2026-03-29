@@ -2,7 +2,7 @@
 
 > - **Link**: [[2505.00212] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)
 > - **Comments**: ICML 2025
-> - **Tags**:
+> - **Tags**: #agent #mechanism 
 
 # 🖼 Background & Key Problem
 

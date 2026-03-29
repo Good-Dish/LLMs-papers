@@ -5,6 +5,4 @@ academic_writing/
 template/
 
 # 忽略raw_doc 子目录
-RAG/raw_doc/
-agent/raw_doc/
-thought-provoking/raw_doc/
+raw_doc/

@@ -6,8 +6,8 @@
 
 # 🖼Background & Key problem
 
-## 1. [[../doc/KG-RAG Bridging the Gap Between Knowledge and Creativity# 🖼 Background & Key Problem|Background_1]]
-## 2. [[../doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs# 🖼Background & Key problem|Background_2]]
+## 1. [[KG-RAG Bridging the Gap Between Knowledge and Creativity# 🖼 Background & Key Problem|Background_1]]
+## 2. [[Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs# 🖼Background & Key problem|Background_2]]
 
 # 🔌 Methodology & Innovation
 

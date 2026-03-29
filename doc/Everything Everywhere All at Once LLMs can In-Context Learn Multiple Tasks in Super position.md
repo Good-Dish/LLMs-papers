@@ -2,7 +2,7 @@
 
 - **Link**: [Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition | OpenReview](https://openreview.net/forum?id=98NalIH588)
 - **Comments**: ICML 2025 Spotlight Poster
-- **Tags**:
+- **Tags**: #ICL #mechanism 
 # 🖼 Background & Key Problem
 
 ## 1. In-Context Learning (ICL)
