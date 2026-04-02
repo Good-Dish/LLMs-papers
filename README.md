@@ -19,13 +19,13 @@ Each note provides:
 ### Note Organization
 - **`doc/`**  
     Contains **detailed notes** that have been **refined and polished with LLM assistance**.  
-    You can refer to the [table](##doc) in the README to quickly identify:
+    You can refer to the [table](#doc) in the README to quickly identify:
     - The research domain of each paper
     - A concise description of its main idea
 - **`short_doc/`**  
     Contains **concise notes generated with LLM support**, guided by **manual exploration and selection**.  
     These notes focus on the **most essential and memorable insights** of each work.  
-    You can also use the [table](##short_doc) to check their corresponding tags and summaries.
+    You can also use the [table](#short_doc) to check their corresponding tags and summaries.
 
 > ⚠️
 > - These notes focus on **idea comprehension and reasoning analysis**. They **do not include experimental replication or implementation details**.
