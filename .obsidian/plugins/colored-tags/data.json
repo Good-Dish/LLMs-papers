@@ -18,7 +18,8 @@
     "lvlms": 32,
     "mechanism": 32,
     "pre-training": 34,
-    "rag": 28
+    "rag": 28,
+    "skills": 35
   },
   "tagColors": {},
   "_version": 4
