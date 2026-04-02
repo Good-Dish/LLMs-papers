@@ -13,26 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering"
-            }
-          }
-        ]
-      },
-      {
-        "id": "95e531142bfc9876",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5d5f07724bfd1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -73,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ICL",
+                "query": "tag:#Long-Context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,14 +191,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b5d5f07724bfd1b2",
+  "active": "a31e943d8c380127",
   "lastOpenFiles": [
-    "doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
+    "short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks.md",
     "README.md",
+    "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
+    "doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
+    "template/模板.md",
+    "short_doc",
     "raw_doc/r_SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
     "pic/Pasted image 20260402141811.png",
-    "template/模板.md",
-    "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
     "raw_doc/r_Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
     "pic/Pasted image 20260401152140.png",
     "doc/LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION.md",
@@ -255,9 +237,7 @@
     "raw_doc/r_Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "agent/raw_doc",
-    "agent/未命名.md",
     "agent",
-    "新建 文本文档.txt",
-    "academic_writing"
+    "新建 文本文档.txt"
   ]
 }

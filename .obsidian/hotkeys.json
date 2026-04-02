@@ -2,9 +2,9 @@
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Q"
+      "key": "E"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # LLMs-papers
 
-_A curated collection of reading notes focused on understanding and synthesizing key ideas in Large Language Models (LLMs)._
+A curated collection of reading notes focused on understanding and synthesizing key ideas in Large Language Models (LLMs).
 ## 🎯 Purpose
 
 This repository serves as a structured and public record of my academic readings on **LLM-related research**.  
@@ -14,23 +14,34 @@ Each note provides:
 - A structured summary of the paper’s **motivation, methodology, and key contributions**
 - Conceptual explanations of the core ideas and reasoning logic
 - Personal insights and reflections connecting the paper
+### How to Use
+- You can **clone this repository** and read the notes locally using tools like **Obsidian** for a better structured experience.
+### Note Organization
+- **`doc/`**  
+    Contains **detailed notes** that have been **refined and polished with LLM assistance**.  
+    You can refer to the [table](##doc) in the README to quickly identify:
+    - The research domain of each paper
+    - A concise description of its main idea
+- **`short_doc/`**  
+    Contains **concise notes generated with LLM support**, guided by **manual exploration and selection**.  
+    These notes focus on the **most essential and memorable insights** of each work.  
+    You can also use the [table](##short_doc) to check their corresponding tags and summaries.
 
-> ⚠️ 
-> - These notes focus purely on **idea comprehension and reasoning analysis**.  They **do not include any experimental replication or implementation details**.
-> - All notes are **language-polished with AI assistance** for readability and academic clarity.  If any expression or description seems unclear, please feel free to open an _Issue_ or leave a comment.
-
+> ⚠️
+> - These notes focus on **idea comprehension and reasoning analysis**. They **do not include experimental replication or implementation details**.
+> - All notes are **language-polished with AI assistance** for readability and academic clarity.
+> - If anything is unclear or inaccurate, feel free to open an _Issue_ or leave a comment.
 ## 🤝 Contribution & Feedback
 
 Feedback, discussion, and suggestions are warmly welcome.  
 If you would like to contribute or discuss specific topics, feel free to:
 - Submit a **Pull Request** with improved notes or references
 - Contact me by **email**
-
 ## 📬 Contact
 
 - **Email:** 24171213937@stu.xidian.edu.cn
-
 # 🎞 Paper Index & One-Sentence Summaries
+## doc
 
 |                                                                                                                  name                                                                                                                  |           tag           |                                                                                                                                            summary                                                                                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -48,4 +59,7 @@ If you would like to contribute or discuss specific topics, feel free to:
 |                                                        [[doc/LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION\|LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION]]                                                        |        #RAG #KG         |                  LightRAG enhances retrieval-augmented generation by transforming unstructured text into a graph-structured knowledge representation and performing dual-level retrieval to capture both fine-grained details and global semantic relationships efficiently.                   |
 |                                            [[doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation\|Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation]]                                            |     #agent #RAG #KG     |        This work proposes a hierarchical and structure-aware retrieval framework for agent memory that replaces similarity-based top-k retrieval with component-level selection and uncertainty-guided expansion to construct compact, non-redundant, and reasoning-complete evidence.         |
 |                              [[doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering\|SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering]]                              |     #agent #skills      |                             This work shows that agent skills, when injected as procedural guidance, provide only limited and highly context-dependent benefits in real-world software engineering, and can even degrade performance due to context interference.                              |
-
+## short_doc
+|                                                                               name                                                                               |      tag       |                                                                                       summary                                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [[short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks\|SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks]] | #agent #skills | This paper introduces SkillsBench, a benchmark that systematically evaluates how structured procedural knowledge (Agent Skills) affects LLM agent performance across diverse tasks. |
