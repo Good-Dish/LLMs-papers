@@ -12,6 +12,7 @@
   "knownTags": {
     "agent": 1,
     "cot": 29,
+    "evolution": 36,
     "icl": 30,
     "kg": 31,
     "long-context": 30,

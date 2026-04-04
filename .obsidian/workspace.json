@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a439c56b7c17cc50",
+            "id": "43ae7b3754e9a40f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AlphaEvolve A coding agent for scientific and algorithmic discovery"
+            }
+          },
+          {
+            "id": "6d56aa4698913091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AlphaEvolve A coding agent for scientific and algorithmic discovery"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+                "file": "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs 的大纲"
+              "title": "AlphaEvolve A coding agent for scientific and algorithmic discovery 的大纲"
             }
           },
           {
@@ -172,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,13 +206,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a31e943d8c380127",
+  "active": "6d56aa4698913091",
   "lastOpenFiles": [
-    "short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks.md",
     "README.md",
+    "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
+    "short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks.md",
+    "未命名",
+    "template/模板.md",
     "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
     "doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
-    "template/模板.md",
     "short_doc",
     "raw_doc/r_SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
     "pic/Pasted image 20260402141811.png",
@@ -234,10 +251,7 @@
     "agent/doc",
     "raw_doc/r_Knowledge Graph-Guided Retrieval Augmented Generation.md",
     "raw_doc/r_KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
-    "raw_doc/r_Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
-    "doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "agent/raw_doc",
-    "agent",
-    "新建 文本文档.txt"
+    "agent"
   ]
 }

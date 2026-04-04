@@ -116,9 +116,6 @@ Reasons:
 👉 Skills close the procedural gap
 - Models know *what*  
 - Skills provide *how*
-
----
-
-## 4. One-line Takeaway
+## One-line Takeaway
 
 👉 High-quality procedural knowledge can significantly boost agent performance, but its effectiveness depends on task, design, and system integration.
