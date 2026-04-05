@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short_doc/DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search.md",
+                "file": "short_doc/Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search"
+              "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions"
+            }
+          },
+          {
+            "id": "294304a9abb31ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模板"
             }
           },
           {
@@ -208,8 +222,9 @@
   "active": "43ae7b3754e9a40f",
   "lastOpenFiles": [
     "README.md",
-    "short_doc/DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search.md",
+    "short_doc/Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.md",
     "template/模板.md",
+    "short_doc/DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search.md",
     "short_doc/IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time.md",
     "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
     "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
@@ -250,7 +265,6 @@
     "doc/Knowledge Graph-Guided Retrieval Augmented Generation.md",
     "doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
     "agent/doc",
-    "raw_doc/r_Knowledge Graph-Guided Retrieval Augmented Generation.md",
     "agent/raw_doc",
     "agent"
   ]
