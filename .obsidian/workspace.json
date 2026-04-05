@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short_doc/IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time.md",
+                "file": "short_doc/DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time"
+              "title": "DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search"
             }
           },
           {
@@ -208,10 +208,11 @@
   "active": "43ae7b3754e9a40f",
   "lastOpenFiles": [
     "README.md",
+    "short_doc/DeepRead Document Structure-Aware Reasoning to Enhance Agentic Search.md",
+    "template/模板.md",
     "short_doc/IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time.md",
     "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
     "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
-    "template/模板.md",
     "pic/Pasted image 20260405162410.png",
     "doc/LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION.md",
     "short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks.md",
