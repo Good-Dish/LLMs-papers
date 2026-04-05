@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
+                "file": "short_doc/IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlphaEvolve A coding agent for scientific and algorithmic discovery"
+              "title": "IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlphaEvolve A coding agent for scientific and algorithmic discovery"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,21 +205,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6d56aa4698913091",
+  "active": "43ae7b3754e9a40f",
   "lastOpenFiles": [
     "README.md",
+    "short_doc/IndexRAG Bridging Facts for Cross-Document Reasoning at Index Time.md",
     "short_doc/AlphaEvolve A coding agent for scientific and algorithmic discovery.md",
+    "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
+    "template/模板.md",
+    "pic/Pasted image 20260405162410.png",
+    "doc/LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION.md",
     "short_doc/SkillsBench Benchmarking How Well Agent Skills Work Across Diverse Tasks.md",
     "未命名",
-    "template/模板.md",
-    "doc/Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
     "doc/SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
     "short_doc",
     "raw_doc/r_SWE-Skills-Bench Do Agent Skills Actually Help in Real-World Software Engineering.md",
     "pic/Pasted image 20260402141811.png",
     "raw_doc/r_Beyond RAG for Agent Memory Retrieval by Decoupling and Aggregation.md",
     "pic/Pasted image 20260401152140.png",
-    "doc/LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION.md",
     "raw_doc/r_LIGHTRAG SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION.md",
     "pic/Pasted image 20260330135435.png",
     "doc/Which Agent Causes Task Failures and When.md",
@@ -242,7 +243,6 @@
     "pic/Pasted image 20260326154419.png",
     "pic/Pasted image 20260325151815.png",
     "pic/Pasted image 20260325151726.png",
-    "pic/Pasted image 20260325150448.png",
     "thought-provoking/pic",
     "raw_doc/r_Which Agent Causes Task Failures and When.md",
     "thought-provoking/raw_doc",
@@ -250,7 +250,6 @@
     "doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
     "agent/doc",
     "raw_doc/r_Knowledge Graph-Guided Retrieval Augmented Generation.md",
-    "raw_doc/r_KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
     "agent/raw_doc",
     "agent"
   ]

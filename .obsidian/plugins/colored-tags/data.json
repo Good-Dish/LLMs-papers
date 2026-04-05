@@ -20,6 +20,7 @@
     "mechanism": 32,
     "pre-training": 34,
     "rag": 28,
+    "reason": 37,
     "skills": 35
   },
   "tagColors": {},
