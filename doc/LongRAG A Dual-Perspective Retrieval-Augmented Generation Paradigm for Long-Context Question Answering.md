@@ -17,7 +17,7 @@
 - Splitting documents into chunks disrupts global coherence: each chunk represents only partial context.
 - Consequently, LLMs may retrieve irrelevant content or fall back on their internal (parametric) knowledge instead of the source material.
 
-## 3. Chain-of-Thought (CoT)**
+## 3. Chain-of-Thought (CoT)
 
 - CoT enables LLMs to explicitly reason through problems step by step, producing intermediate reasoning traces that can guide evidence retrieval.
 
